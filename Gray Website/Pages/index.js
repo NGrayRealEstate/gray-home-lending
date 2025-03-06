@@ -1,5 +1,5 @@
 /**
- * GrayHomeLoans.com - Next.js Starter
+ * GrayHomeLending.com - Next.js Starter
  * This is a boilerplate Next.js project for an innovative home lending website.
  */
 
@@ -7,7 +7,7 @@
 default export function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
-      <h1 className="text-4xl font-bold text-gray-900">Welcome to Gray Home Loans</h1>
+      <h1 className="text-4xl font-bold text-gray-900">Welcome to Gray Home Lending</h1>
       <p className="mt-2 text-lg text-gray-700">Bringing innovation to home lending & technology.</p>
       <a href="/calculator" className="mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg">Try our Loan Calculator</a>
     </div>
